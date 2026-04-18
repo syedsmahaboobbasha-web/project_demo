@@ -1,3 +1,4 @@
 # project_demo
 This repository is just for demonstration purpose
-auther: Syed mahaboob basha
+<br>
+Auther- Syed_Mahaboob_Basha
